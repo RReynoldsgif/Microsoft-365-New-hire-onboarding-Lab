@@ -72,7 +72,6 @@ Used the temporary password in a simulated employee sign-in, completed the requi
 
 **Security note:** The temporary password has been redacted from the screenshot and is not included in this repository.
 
-![Successful password reset with temporary password redacted](screenshots/05-password-reset.png)
 
 ### 6. Registered Microsoft Authenticator MFA
 
@@ -83,7 +82,6 @@ Completed Microsoft Authenticator registration for Jordan Lee during the first-t
 
 MFA helps protect accounts by requiring an additional verification factor beyond the password.
 
-![Microsoft Authenticator successfully added](screenshots/06-authenticator-added.png)
 
 ### 7. Tested Microsoft 365 Service Access
 
